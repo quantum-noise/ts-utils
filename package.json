@@ -1,0 +1,36 @@
+{
+  "name": "tac",
+  "version": "0.0.1",
+  "description": "Typed action creators",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantum-noise/tac.git"
+  },
+  "keywords": [
+    "Redux",
+    "Typescript"
+  ],
+  "author": "Aliaksandr Klimau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantum-noise/tac/issues"
+  },
+  "homepage": "https://github.com/quantum-noise/tac#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@typescript-eslint/eslint-plugin": "^1.11.0",
+    "@typescript-eslint/parser": "^1.11.0",
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.2"
+  }
+}
